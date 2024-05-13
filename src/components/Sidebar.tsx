@@ -32,7 +32,7 @@ const Sidebar = () => {
                 height={24}
                 alt={link.label}
               />
-              <p className="text-lg font-semibold max-lg:hidden">{link.label}2:16:53</p>
+              <p className="text-lg font-semibold max-lg:hidden">{link.label}</p>
             </Link>
           );
         })}
