@@ -15,8 +15,8 @@ const Navbar = () => {
           alt="logo"
           className="max-sm:size-10"
         />
-        <p className="text-[26px] font-extrabold text-white max-sm:hidden">
-          Video Conf
+        <p className="text-[26px] font-extrabold text-white max-sm:hidden mx-1">
+          Meeting App
         </p>
       </Link>
 
